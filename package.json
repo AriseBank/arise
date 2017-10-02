@@ -23,7 +23,7 @@
     "commander": "=2.9.0",
     "compression": "=1.6.2",
     "cors": "=2.8.1",
-    "decompress-zip": "arisebank/decompress-zip#f46b0a3",
+    "decompress-zip": "arisebank/decompress-zip",
     "ejs": "=2.5.5",
     "express": "=4.14.1",
     "express-domain-middleware": "=0.1.0",
