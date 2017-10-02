@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/arisebank/arise-ui.git
+[submodule "test/arise-js"]
+	path = test/arise-js
+	url = https://github.com/arisebank/arise-js.git
+	branch = 0.4.5
